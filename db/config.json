@@ -1,9 +1,9 @@
 {
-    "token": "NjU5MDAxMjYwMDg2NjU3MDUw.XgH8wA.eEfDqpyVxmbBEnqZzKobKRCaXeM",
-    "support": "836905792879853588",
-    "id_bot": "659001260086657050",
+    "token": "TOKEN",
+    "support": "ID_SERVER",
+    "id_bot": "ID_BOT",
     "prefix": "a!",
-    "owner": ["356344219813806080","640873256940732446"],
+    "owner": ["ID_OWNER"],
     "footer": "AlphaBot",
     "color": "#738BD9"
     
